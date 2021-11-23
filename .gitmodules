@@ -3,4 +3,4 @@
 	url = https://github.com/hermitcore/rusty-loader.git
 [submodule "libhermit-rs"]
 	path = libhermit-rs
-	url = https://github.com/hermitcore/libhermit-rs.git
+	url = https://github.com/jts22/libhermit-rs.git
