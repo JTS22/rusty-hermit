@@ -10,7 +10,7 @@
     {
         "boot-source": {
             "kernel_image_path": "<path/to/rusty/loader>",
-            "boot_args": "-ip 172.16.0.2 -gateway 172.16.0.2 -mask 255.255.255.0",
+            "boot_args": "-ip 172.16.0.2 -gateway 172.16.0.1 -mask 255.255.255.0",
             "initrd_path": "<path/to/application>"
         },
         "drives": [],
